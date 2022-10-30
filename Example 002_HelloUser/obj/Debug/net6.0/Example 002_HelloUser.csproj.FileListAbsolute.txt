@@ -1,0 +1,15 @@
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\bin\Debug\net6.0\Example 002_HelloUser.exe
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\bin\Debug\net6.0\Example 002_HelloUser.deps.json
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\bin\Debug\net6.0\Example 002_HelloUser.runtimeconfig.json
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\bin\Debug\net6.0\Example 002_HelloUser.dll
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\bin\Debug\net6.0\Example 002_HelloUser.pdb
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\obj\Debug\net6.0\Example 002_HelloUser.csproj.AssemblyReference.cache
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\obj\Debug\net6.0\Example 002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\obj\Debug\net6.0\Example 002_HelloUser.AssemblyInfoInputs.cache
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\obj\Debug\net6.0\Example 002_HelloUser.AssemblyInfo.cs
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\obj\Debug\net6.0\Example 002_HelloUser.csproj.CoreCompileInputs.cache
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\obj\Debug\net6.0\Example 002_HelloUser.dll
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\obj\Debug\net6.0\refint\Example 002_HelloUser.dll
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\obj\Debug\net6.0\Example 002_HelloUser.pdb
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\obj\Debug\net6.0\Example 002_HelloUser.genruntimeconfig.cache
+D:\КИРИЛЛ\языки программирования (лекции)\Examples2\Example 002_HelloUser\obj\Debug\net6.0\ref\Example 002_HelloUser.dll
